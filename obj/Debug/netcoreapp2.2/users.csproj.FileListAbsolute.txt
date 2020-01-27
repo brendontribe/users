@@ -1,0 +1,14 @@
+C:\Users\brend\Projects\users\bin\Debug\netcoreapp2.2\users.deps.json
+C:\Users\brend\Projects\users\bin\Debug\netcoreapp2.2\users.runtimeconfig.json
+C:\Users\brend\Projects\users\bin\Debug\netcoreapp2.2\users.runtimeconfig.dev.json
+C:\Users\brend\Projects\users\bin\Debug\netcoreapp2.2\users.dll
+C:\Users\brend\Projects\users\bin\Debug\netcoreapp2.2\users.pdb
+C:\Users\brend\Projects\users\obj\Debug\netcoreapp2.2\users.csproj.CoreCompileInputs.cache
+C:\Users\brend\Projects\users\obj\Debug\netcoreapp2.2\users.RazorAssemblyInfo.cache
+C:\Users\brend\Projects\users\obj\Debug\netcoreapp2.2\users.RazorAssemblyInfo.cs
+C:\Users\brend\Projects\users\obj\Debug\netcoreapp2.2\users.AssemblyInfoInputs.cache
+C:\Users\brend\Projects\users\obj\Debug\netcoreapp2.2\users.AssemblyInfo.cs
+C:\Users\brend\Projects\users\obj\Debug\netcoreapp2.2\users.RazorTargetAssemblyInfo.cache
+C:\Users\brend\Projects\users\obj\Debug\netcoreapp2.2\users.dll
+C:\Users\brend\Projects\users\obj\Debug\netcoreapp2.2\users.pdb
+C:\Users\brend\Projects\users\obj\Debug\netcoreapp2.2\users.csprojResolveAssemblyReference.cache
